@@ -51,4 +51,5 @@ This project aims to predict the final score in T20 cricket matches using variou
 ## Results
 - The project  identifies the most effective regression model for predicting T20 match scores based on various metrics.
 - This project was developed for predictive analytics in sports, specifically focusing on T20 cricket matches.
-
+## Dataset 
+[Dataset Link](https://www.kaggle.com/datasets/veeralakrishna/cricsheet-a-retrosheet-for-cricket)

@@ -53,3 +53,7 @@ This project aims to predict the final score in T20 cricket matches using variou
 - This project was developed for predictive analytics in sports, specifically focusing on T20 cricket matches.
 ## Dataset 
 [Dataset Link](https://www.kaggle.com/datasets/veeralakrishna/cricsheet-a-retrosheet-for-cricket)
+
+## Interface Demo
+Demo of the interface for predicting score of a ongoing T20 match.
+<img width="938" alt="Screenshot 2025-01-20 033303" src="https://github.com/user-attachments/assets/a2bb48f7-5d74-4e9f-96e7-d6152cd7b92b" />
